@@ -40,20 +40,19 @@ cdDiabetes-prediction
 
  The first imported the dependencies
 
-![WhatsApp Image 2023-11-22 at 12 14 23_a8932c6b](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/ce3105bc-6aaa-4aca-965c-e4832ab9e0c1)
+![1](https://github.com/Abrammse/project-2-Diabetes-prediction/assets/77212440/fb7678f2-5857-41b9-b3dd-e9f722408490)
 
 Data Collection and Data Processing
 
-![WhatsApp Image 2023-11-22 at 12 18 11_7469c8ea](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/53b202d7-a65a-48b3-835a-e8d7df475556)
+![2](https://github.com/Abrammse/project-2-Diabetes-prediction/assets/77212440/6073827c-c9ee-44f1-b920-05c972c08edd)
 
 
 Model Evaluation
 
-![WhatsApp Image 2023-11-22 at 12 21 12_5a424c40](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/bbb0ef4a-5e04-4ba0-8371-3f8b4101e554)
+![3](https://github.com/Abrammse/project-2-Diabetes-prediction/assets/77212440/b5d731b9-7e22-4d8f-8b37-45ce9e4fa1eb)
 
 Making a Predictive System
 
-![WhatsApp Image 2023-11-22 at 12 21 39_4dc170b9](https://github.com/Abrammse/project-1-ROCK-VS-Mine-Prediction-ML-/assets/77212440/12ec6ebb-b0d1-4a42-aa46-2fb5f9136914)
-
+![4](https://github.com/Abrammse/project-2-Diabetes-prediction/assets/77212440/77c9ec77-d6bf-4139-8ace-46134d4b3c11)
 
 </div>
